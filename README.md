@@ -8,7 +8,5 @@ List of the last 3 things I ate:
 * Green beans
 
 
-Image of somewhere I like to hike: 
-
-Mt. Pilchuck in Washington State: ![Mt. Pilchuck](http://i.imgur.com/DTvXQVw.jpg)
+An image of somewhere I like to hike, Mt. Pilchuck, WA: ![Mt. Pilchuck](http://i.imgur.com/DTvXQVw.jpg)
 
